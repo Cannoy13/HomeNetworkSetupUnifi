@@ -3,7 +3,7 @@
 This project demonstrates the setup and configuration of a home network using a **Unifi Dream Machine (UDM)**, a **switch**, and **Unifi access points** to create a secure and reliable home network environment. The goal was to set up and secure the network, including basic configurations and network monitoring to optimize performance.
 
 **Note**<br>
-This configuration can also be used in small business environments depending on use case/needs.
+This configuration can also be used in business environments depending on use case/needs.
 
 
 ## Table of Contents
